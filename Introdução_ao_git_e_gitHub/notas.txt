@@ -1,0 +1,6 @@
+comandos basico do git  
+git clone -> clona um repositorio do gitHub
+git status -> mostra as alterações do sistema
+git add -> adiciona o arquivo que foi modificado ao git 
+git commit -m "texto aqui" -> commita uma alteração para ser visualizada como alterações no codigo
+git push -> manda o arquivo para o repositorio remoto la no github
